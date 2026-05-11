@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tokyo-vibes-2026-flax.vercel.app/sitemap.xml
